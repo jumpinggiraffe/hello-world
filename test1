@@ -1,0 +1,8 @@
+<?php
+
+$stu = "hello<br>";
+
+echo $stu;
+
+
+?>
